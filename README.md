@@ -1,5 +1,5 @@
 
-# Skill Nexus Week 1 – Data Analysis
+# Skill Nexis Week 1 – Data Analysis
 
 ## Project Title
 Global Superstore 2016 Data Analysis
@@ -30,4 +30,4 @@ The objective of this project is to analyze the Global Superstore 2016 dataset u
 - Duplicate Rows: 0
 
 ## Project
-This project was completed as part of Skill Nexus Week 1 Data Analysis training.
+This project was completed as part of Skill Nexis Week 1 Data Analysis training.
